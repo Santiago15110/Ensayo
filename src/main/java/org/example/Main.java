@@ -7,5 +7,7 @@ public class Main {
 
 
         System.out.println("David Santiago Mamian");
+        System.out.println("Santigo Huertas Bermudez");
+
     }
 }
